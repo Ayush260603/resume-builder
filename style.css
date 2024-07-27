@@ -1,0 +1,68 @@
+
+.container2{
+    
+    margin-left:1rem;
+    margin-top: 2rem;
+    display: none;
+}
+
+.container{
+    border: 3px solid yellow;
+    /* display: none; */
+    background: linear-gradient(to right,rgb(204, 226, 226),rgb(45, 118, 228));
+    width: 100%;
+}
+.profilepic{
+    
+    height:10rem;
+    width:12rem;
+    border-radius: 50%;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+.col-md-4{
+
+    background:linear-gradient(to bottom,rgb(192, 129, 235),rgb(158, 61, 214));
+    color: white;
+}
+.addressimg{
+    width:1.5rem;
+}
+
+.personal_details{
+    margin-left: 1rem;
+}
+.icon{
+    width: 2rem;
+    
+}
+a{
+    margin-left: 0.5rem;
+    text-decoration: none;
+    color: white;
+    
+    
+}
+.visibility{
+    display: none;
+}
+.visibility1{
+    visibility: visible;
+    margin-left:1rem;
+    margin-top: 2rem;
+}
+.card-header{
+    background:linear-gradient(to bottom,rgb(192, 129, 235),rgb(158, 61, 214));
+    color: white;
+}
+#skilllist{
+    margin-top: 1rem;
+}
+#skilllist li{
+    margin-top: 0.5rem;
+    margin-bottom: 0rem;
+}
+
+#role{
+    font-size: 1.5rem;
+}
